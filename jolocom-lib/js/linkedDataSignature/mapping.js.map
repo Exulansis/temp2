@@ -1,0 +1,1 @@
+{"version":3,"file":"mapping.js","sourceRoot":"","sources":["../../ts/linkedDataSignature/mapping.ts"],"names":[],"mappings":";;AAAA,wBAAoC;AACpC,kFAA8E;AAC9E,wEAAqE;AAExD,QAAA,mBAAmB,GAAG;IACjC,CAAC,kBAAe,CAAC,oBAAuC,CAAC,EAAE;QACzD,IAAI,EAAE,2CAAoB;QAC1B,UAAU,EAAE,EAAE;KACf;IACD,CAAC,kBAAe,CAAC,yBAA4C,CAAC,EAAE;QAC9D,IAAI,EAAE,oDAAwB;QAC9B,UAAU,EAAE,EAAE;KACf;CACF,CAAC"}
