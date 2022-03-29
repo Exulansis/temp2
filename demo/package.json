@@ -1,0 +1,15 @@
+{
+  "name": "demo",
+  "version": "0.1.0",
+  "dependencies": {
+    "@jolocom/protocol-ts": "^0.5.5",
+    "@types/deep-equal": "^1.0.1",
+    "deep-equal": "^2.0.5",
+    "jolocom-lib": "./jolocom-lib",
+    "ts-node": "^10.5.0",
+    "typescript": "^4.5.5"
+  },
+  "scripts": {
+    "demo": "ts-node ./src/index.ts"
+  }
+}

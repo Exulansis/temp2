@@ -1,0 +1,16 @@
+{
+  "name": "AP-101",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mina Nagy Zaki <mnzaki@jolocom.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "demo", "jolocom-lib"
+  ],
+  "scripts": {
+    "start": "cd jolocom-lib; yarn build",
+    "test": "cd ./demo; yarn demo"
+  }
+}
+
